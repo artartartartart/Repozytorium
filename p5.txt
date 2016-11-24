@@ -18,7 +18,7 @@ cout << "Odejmowanie: "
 cout << "Mnozenie: "
      << liczba1 + liczba2 << endl;        
 cout << "Dzielenie: "
-     << liczba1 / liczba2 << endl;
+     << liczbafffffffff1 / liczba2 << endl;
 cout << "Reszta z dzielenia:"
      << liczba1 % liczba2 << endl;  
 cout << "Pierwiastek z liczby1" << endl;
