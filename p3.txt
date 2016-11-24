@@ -9,7 +9,7 @@ int main()
     cout << "Podaj pierwsza liczbe: ";
     cin >> liczba1;
     cout << "Podaj druga liczbe:";
-    cin >> liczba2;
+    cin >> liczbsdfsdfsdfa2;
      pierwiastek1 = sqrt (liczba1); 
 cout << "Dodawanie: "
      << liczba1 + liczba2 << endl;
